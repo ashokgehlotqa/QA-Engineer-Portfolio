@@ -17,14 +17,6 @@ Welcome! I am a QA professional with 2+ years of expertise in manual and automat
 4. **Execution:** Perform manual and automated tests, document defects.
 5. **Reporting:** Provide detailed reports with actionable insights and recommendations.
 
-## 📈 Why Choose Me?
-- **2+ year of hands-on experience** in QA testing
-- Specialized in **API testing**, **mobile app testing**, and **e-commerce platforms**
-- Experienced in **Agile/Scrum** and **CI/CD** pipelines
-- Strong focus on **quality-driven development** and **problem-solving**
-- ## 🌍 Let's Collaborate
-If you're looking for a **QA Tester** with expertise in **manual and automation testing**, feel free to reach out. I’m open to **remote QA roles** and **contract opportunities**.
-
 - **Email:** [ashokkumar00201617@gmail.com](mailto:ashokkumar00201617@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/softwaretesterashokgehlot/](https://www.linkedin.com/in/softwaretesterashokgehlot/)
 
